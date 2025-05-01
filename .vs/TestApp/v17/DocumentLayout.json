@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\coding\\dotnet\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\service\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\service\\externaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\configuration\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\configuration\\apiconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\usernotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\interfaces\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\interfaces\\iexternaluserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|e:\\coding\\dotnet\\testapp\\testapp\\dto\\userdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3D82988-31D0-4364-90CE-81AB5415F6F5}|TestApp\\TestApp.csproj|solutionrelative:testapp\\dto\\userdataresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExternalUserService.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\Interfaces\\IExternalUserService.cs",
+              "RelativeDocumentMoniker": "TestApp\\Interfaces\\IExternalUserService.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\Interfaces\\IExternalUserService.cs",
+              "RelativeToolTip": "TestApp\\Interfaces\\IExternalUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:34:29.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TestApp\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TestApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:31:53.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExternalUserService.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\Service\\ExternalUserService.cs",
+              "RelativeDocumentMoniker": "TestApp\\Service\\ExternalUserService.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\Service\\ExternalUserService.cs",
+              "RelativeToolTip": "TestApp\\Service\\ExternalUserService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:28:55.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\Program.cs",
+              "RelativeDocumentMoniker": "TestApp\\Program.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\Program.cs",
+              "RelativeToolTip": "TestApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:28:05.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserNotFoundException.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\UserNotFoundException.cs",
+              "RelativeDocumentMoniker": "TestApp\\UserNotFoundException.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\UserNotFoundException.cs",
+              "RelativeToolTip": "TestApp\\UserNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:43:54.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiConfiguration.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\Configuration\\ApiConfiguration.cs",
+              "RelativeDocumentMoniker": "TestApp\\Configuration\\ApiConfiguration.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\Configuration\\ApiConfiguration.cs",
+              "RelativeToolTip": "TestApp\\Configuration\\ApiConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:27:26.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\appsettings.json",
+              "RelativeDocumentMoniker": "TestApp\\appsettings.json",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\appsettings.json",
+              "RelativeToolTip": "TestApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-01T09:23:49.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDataResponse.cs",
+              "DocumentMoniker": "E:\\coding\\dotnet\\TestApp\\TestApp\\DTO\\UserDataResponse.cs",
+              "RelativeDocumentMoniker": "TestApp\\DTO\\UserDataResponse.cs",
+              "ToolTip": "E:\\coding\\dotnet\\TestApp\\TestApp\\DTO\\UserDataResponse.cs",
+              "RelativeToolTip": "TestApp\\DTO\\UserDataResponse.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T09:26:01.686Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
