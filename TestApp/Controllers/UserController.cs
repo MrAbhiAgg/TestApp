@@ -6,7 +6,7 @@ namespace TestApp.Controllers
 {
     [ApiController]
     [Route("/api/[controller]")]
-    public class UserController : Controller
+    public class UserController : ControllerBase
     {
         private IExternalUserService _service;
         
@@ -14,14 +14,14 @@ namespace TestApp.Controllers
         {
             _service = service;
         }
-        [HttpGet("/users")]
+        [HttpGet("users")]
         public async Task<IActionResult> Index()
         {
             var allUsers = await this._service.GetAllUsersAsync();
             return StatusCode(200,allUsers);
         }
 
-        [HttpGet("/getuser/{id}")]
+        [HttpGet("getuser/{id}")]
         public async Task<IActionResult> GetUser(int id)
         {
             try
